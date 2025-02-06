@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+    <link rel="shortcut icon" href="./Assets/images/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="./Style/style.css" />
+    <title>Weather App</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="Heading">Weather App</h1>
+      <div class="card">
+        <div class="search">
+          <input type="text" class="search-bar" placeholder="Enter City Name" spellcheck="false"/>
+          <button class="search-btn">Search</button>
+        </div>
+        <span class="err" style="text-align: center;">Please Enter the Correct City Name</span>
+        <span class="err1" style="display: none; color: red;">Please Enter the City</span>
+        <div class="weather-info">
+          <div class="info">
+            <img src="./Assets/images/clouds.png" alt="Weather Icon" class="weather-icon"/>
+            <h1 class="temp"></h1>
+            <h2 class="city"></h2>
+          </div>
+          <div class="extra-info">
+            <div class="left-col">
+              <img src="./Assets/images/humidity.png" alt="humidity" class="icon"/>
+              <h3 class="humidity">
+                <span class="humidity-per">20%</span><br />
+                Humidity
+              </h3>
+            </div>
+            <div class="right-col">
+              <img src="./Assets/images/wind.png" alt="wind" class="icon" />
+              <h3 class="wind">
+                <span class="wind-speed">20km/h</span> <br />
+                Wind Speed
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="./Script/App.js"></script>
+  </body>
+</html>
