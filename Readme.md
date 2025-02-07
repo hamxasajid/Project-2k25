@@ -15,11 +15,27 @@ This repository includes several mini JavaScript projects. Feel free to explore 
 A simple and sleek weather application that fetches real-time weather data based on user input. The app provides current weather information such as temperature, humidity, wind speed, and more, using a reliable weather API. 🌍
 
 #### 📌 **Key Features:**
-- Fetches live weather data 🌐
-- Displays temperature, humidity, and more 🌡️
-- User-friendly interface 💻
+- Fetches live weather data 🌐  
+- Displays temperature, humidity, and more 🌡️  
+- User-friendly interface 💻  
 
-#### 🔗 **Live Demo:**
-[Check out the Weather App here!](https://hamxasajid.github.io/Project-2k25/Weather%20App/index.html) 🌟
+#### 🔗 **Live Demo:**  
+[Weather App](https://hamxasajid.github.io/Project-2k25/WeatherApp/index.html) 🌟  
 
 ---
+
+### ⏰ **Digital Clock**
+
+A minimalist digital clock that displays the current time in hours, minutes, and seconds. The clock updates in real-time and offers a clean, modern interface. 🕰️
+
+#### 📌 **Key Features:**
+- Real-time clock updates ⏱️  
+- Clean and simple design 🎨  
+- Always accurate and easy to read 📆  
+
+#### 🔗 **Live Demo:**  
+[Digital Clock](https://hamxasajid.github.io/Project-2k25/DigitalClock/index.html) 🌟  
+
+---
+
+Feel free to explore the projects, contribute, or give feedback! 😊
