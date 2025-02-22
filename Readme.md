@@ -38,4 +38,32 @@ A minimalist digital clock that displays the current time in hours, minutes, and
 
 ---
 
+### 🔢 **QR Code Generator**
+
+A handy QR code generator that allows users to input text or a URL and generate a scannable QR code instantly. 📱
+
+#### 📌 **Key Features:**
+- Generates QR codes instantly 🚀  
+- Supports text and URL input 🔗  
+- Easy-to-use interface 🖥️  
+
+#### 🔗 **Live Demo:**  
+[QR Code Generator](https://hamxasajid.github.io/Project-2k25/QRCodeGenerator/index.html) 🌟  
+
+---
+
+### ➕ **Calculator**
+
+A simple and intuitive calculator that allows users to perform basic arithmetic operations with a sleek UI. 🧮  
+
+#### 📌 **Key Features:**
+- Supports addition, subtraction, multiplication, and division ✖️➕  
+- User-friendly and responsive design 🎨  
+- Keyboard input support ⌨️  
+
+#### 🔗 **Live Demo:**  
+[Calculator](https://hamxasajid.github.io/Project-2k25/Calculator/index.html) 🌟  
+
+---
+
 Feel free to explore the projects, contribute, or give feedback! 😊
