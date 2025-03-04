@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GitHub Profile Finder</title>
+    <link rel="stylesheet" href="./Style/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h2 class="title"><i class="bi bi-github"></i> GitHub Profile Finder</h2>
+      <div class="search-box">
+        <input
+          type="text"
+          id="username"
+          class="input-field"
+          placeholder="Enter GitHub Username"
+        />
+        <button class="search-btn" onclick="fetchUser()">
+          <i class="bi bi-search"></i> Search
+        </button>
+      </div>
+
+      <!-- Loading Spinner -->
+      <div class="spinner" id="loading">
+        <div class="spinner-border"></div>
+        <p>Fetching data...</p>
+      </div>
+
+      <div id="result"></div>
+    </div>
+
+    <script src="./Script/App.js"></script>
+  </body>
+</html>
