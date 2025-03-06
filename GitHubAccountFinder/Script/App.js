@@ -121,7 +121,7 @@ function displayUser(
           <div class="button">
           <p><a href="${
             data.html_url
-          }" target="_blank" class="btn btn-dark profile-btn"><i class="bi bi-github"></i> View GitHub Profile</a></p></div>
+          }" target="_blank" class="btn btn-dark profile-btn">View GitHub Profile</a></p></div>
       </div>
   </div>
 `;
